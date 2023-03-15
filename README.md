@@ -8,3 +8,4 @@
 HackettJackett/HackettJackett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->https://avatars.githubusercontent.com/u/68758950?v=4
+[Etherscan.io 15/03/2023 12:39:37] I, hereby verify that I am the owner/creator of the address [0x0000000000a39bb272e79075ade125fd351887ac]
